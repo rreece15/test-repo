@@ -1,4 +1,9 @@
-# test-repo
-This is a test repository
+# Introduction
 
-*TODO* Add more content
+This is a repository created by *Firstname*
+
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
